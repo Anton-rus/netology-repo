@@ -5,3 +5,4 @@ Now line 3 added to this file
 
 Final line to this file
 
+Another line for LESSON 4
