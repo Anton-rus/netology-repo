@@ -1,0 +1,1 @@
+Add a file main.sh in the main branch with arbitrary content, make a commit and push . This is how the continuation of team-wide development in the main branch is simulated during the development of a separate functional in the dev branch.
